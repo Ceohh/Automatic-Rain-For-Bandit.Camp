@@ -1,10 +1,7 @@
 # HOW TO USE
-1 - Download Python from https://www.python.org/downloads/
-2 - Open "Installing python.bat"
-3 - Open "Start.bat"
+1 - Download Python from https://www.python.org/downloads/<br>2 - Open "Installing python.bat"<br>3 - Open "Start.bat"
 
-# CURRENTLY ONLY WORKS WITH 1650 x 1080 RESOLUTION
-I will add multi resolution support if this gets enough uses.
+CURRENTLY ONLY WORKS WITH 1650 x 1080 RESOLUTION<br>I will add multi resolution support if this gets enough uses.
 
 
 
