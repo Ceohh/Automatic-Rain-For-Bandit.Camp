@@ -1,3 +1,16 @@
+# HOW TO USE
+1 - Download Python from https://www.python.org/downloads/
+2 - Open "Installing python.bat"
+3 - Open "Start.bat"
+
+# CURRENTLY ONLY WORKS WITH 1650 x 1080 RESOLUTION
+I will add multi resolution support if this gets enough uses.
+
+
+
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on rust site scripts<br>👯 I’m looking to collaborate on anything<br>🤝 I’m looking for help with my scripts<br>🌱 I’m currently learning C++<br>💬 Ask me about anything<br>⚡ Fun fact Xbox is better than Playstation
 
